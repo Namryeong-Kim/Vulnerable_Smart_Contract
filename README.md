@@ -70,7 +70,10 @@
 - Mango Market
 
 ### Re-entrancy
-
+[dforce audit report]
+github: https://github.com/dforce-network/documents/tree/master/audit_report
+docs: https://docs.dforce.network/
+medium: https://medium.com/dforcenet
 - Lendf.me (dForce)
   https://github.com/OpenZeppelin/exploit-uniswap/tree/master/contracts
 - dForce
@@ -83,3 +86,6 @@
 - Ola Finance
 - Revest Finance
 - Siren Protocol
+- Omni Protocol -> double reentrancy
+   https://etherscan.io/address/0x50c7a557d408a5f5a7fdbe1091831728ae7eba45#code
+   PoC: https://github.com/immunefi-team/hack-analysis-pocs/blob/main/src/omni-july-2022/Attacker.sol
